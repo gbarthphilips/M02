@@ -1,4 +1,5 @@
 Console.WriteLine("Hello world");
-int x= 23;
-int y= 15;
-Console.WriteLine(x, y);
+int x= 999;
+int y= 111;
+int z= 222;
+Console.WriteLine(x, y, z);
