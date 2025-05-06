@@ -1,4 +1,5 @@
 Console.WriteLine("Hello world");
 int x= 23;
 int y= 15;
-Console.WriteLine(x, y);
+int z= 28;
+Console.WriteLine(x, y, z);
